@@ -1,2 +1,1 @@
-people
-======
+people are best
